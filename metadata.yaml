@@ -1,0 +1,42 @@
+_repo: The-Golden-Dog_2735
+_version: 0.0.1
+alternative_title: Le chien d'or. English
+creator:
+  author:
+    agent_name: Kirby, William
+    birthdate: 1817
+    deathdate: 1906
+    gutenberg_agent_id: '1010'
+    url: http://www.gutenberg.org/2009/agents/1010
+    wikipedia: http://en.wikipedia.org/wiki/William_Kirby_%28author%29
+description: "The Golden Dog (Le Chien d'Or) was a novel by William Kirby (1817-1906)\
+  \ that was written between April 1869 and 1872, with further revisions being up\
+  \ through 1876. After being rejected by several publishers, the work was finally\
+  \ arranged to be published in 1877 by Lovell, Adam, Wesson and Company. However,\
+  \ because the publisher neglected to register the novel, the author lost any royalties\
+  \ to this work. He received a sum total of $100–200 for the publication.\nThis novel\
+  \ is based upon three works by James MacPherson Le Moine: The Golden Dog, Château\
+  \ Bigot and La Corriveau. It draws upon the historical background of the city of\
+  \ Quebec for its characters, and tells its story through two intertwining plotlines.\
+  \ The first is of the lady Angélique de Méloizes, Madame de Péan, while the second\
+  \ is of Coronel Pierre Philibert, the son of a prosperous merchant.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2001-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2735'
+  wikidata: Q7737024
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Historical fiction'
+- !lcsh 'Canada -- History -- To 1763 (New France) -- Fiction'
+- GITenberg
+title: The Golden Dog
+url: http://www.gutenberg.org/ebooks/2735
+wikipedia:
+- https://en.wikisource.org/wiki/The_Golden_Dog
+- https://en.wikipedia.org/wiki/The_Golden_Dog
