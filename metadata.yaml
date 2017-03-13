@@ -1,6 +1,9 @@
 _repo: The-Golden-Dog_2735
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Le chien d'or. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kirby, William
@@ -21,6 +24,8 @@ description: "The Golden Dog (Le Chien d'Or) was a novel by William Kirby (1817-
   \ The first is of the lady Angélique de Méloizes, Madame de Péan, while the second\
   \ is of Coronel Pierre Philibert, the son of a prosperous merchant.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2735#The-Golden-Dog
 gutenberg_issued: '2001-07-01'
 gutenberg_type: Text
 identifiers:
